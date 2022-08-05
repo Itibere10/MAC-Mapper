@@ -3,7 +3,7 @@ Shell Script integrado com Python utilizado para a análise e identificação de
 
 #### Para o funcionamento correto:
 * Pré-requisitos:
-	* 🌐 **NMAP ** ([Download](https://nmap.org/download.html "Download"))
+	* 🌐 **NMAP** ([Download](https://nmap.org/download.html "Download"))
 	* 🐍**Python / pip** ([Download](https://www.python.org/downloads/ "Download"))
 	* 📥 **Curl** ([Download](https://curl.se/download.html "Download"))
 	
